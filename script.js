@@ -54,3 +54,4 @@ fetchLanyardData(userId1, avatarElement1, nicknameElement1, subnickElement1, nit
 fetchLanyardData(userId2, avatarElement2, nicknameElement2, subnickElement2, nitroBadge2, boostBadge2);
 fetchLanyardData(userId3, avatarElement3, nicknameElement3, subnickElement3, nitroBadge3, boostBadge3); 
 
+
